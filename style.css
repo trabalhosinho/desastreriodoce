@@ -1,6 +1,7 @@
-<style>
+ <style>
 body {
 background-color: #FFFFFF
+  min-height: 100%;
 }
 
 h1 { 
@@ -24,6 +25,21 @@ color: black;
 }
 
  td {
-   padding:30px;
+ padding:30px;
+ }
+ 
+ html {
+  height: 100%;
+  } 
+  
+ .footer {
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  background-color: #000000;
+  font-style: bold;
+  text-align: center;
+  color: #FFFFFF;
 }
    </style>
