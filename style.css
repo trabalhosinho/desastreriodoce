@@ -1,6 +1,6 @@
 <style>
 body {
-background-color: #CDCDCD;
+background-color: #FFFFFF
 }
 
 h1 { 
@@ -15,11 +15,15 @@ text-align: center
 
 h5 {
 color: black;
-text-decoration: italic;
+font-style: italic;
+text-align: center;
 }
 
 h6 {
 color: black;
 }
 
-</style>
+ td {
+   padding:30px;
+}
+   </style>
